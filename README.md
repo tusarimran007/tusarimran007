@@ -40,15 +40,11 @@ I help businesses scale operations, automate repetitive workflows, and build int
 
 ---
 
-### 📌 Featured Repositories
-* 🔗 **[`ai-voice-chatbot-templates`](https://github.com/your-username/ai-voice-chatbot-templates)** – Ready-to-deploy appointment booking flows & system prompts.
-* 🔗 **[`enterprise-prompt-library`](https://github.com/your-username/enterprise-prompt-library)** – Structured prompt frameworks for operations, research, and copywriting.
-* 🔗 **[`nocode-ai-automations`](https://github.com/your-username/nocode-ai-automations)** – JSON blueprints for Make/n8n lead enrichment and CRM sync.
-* 🔗 **[`hitl-ai-qa-checklist`](https://github.com/your-username/hitl-ai-qa-checklist)** – Standard Operating Procedures (SOPs) for auditing AI knowledge bases.
+
 
 ---
 
 ### 📫 Let's Connect & Collaborate
 * 💼 **Available for:** Freelance Projects, Retainer VA Roles, and Custom AI System Builds
-* 📧 **Email:** [imrantusarac@gmail.com](mailto:imrantusarac@gmail.com)
+* 📧 **Email:** [Tusar Imran](mailto:imrantusarac@gmail.com)
 * 🌐 **Portfolio / Booking:** [Tusar Imran](https://onemarketers.com/freelancers/58)
